@@ -1,2 +1,2 @@
-# nomadic
-Advanced migrations for Sequelize
+# Nomadic
+## Advanced migrations for Sequelize

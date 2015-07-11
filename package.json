@@ -1,0 +1,14 @@
+{
+  "name": "nomadic",
+  "version": "0.0.0",
+  "description": "Advanced migrations for Sequelize",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterjwest/nomadic.git"
+  },
+  "author": "Peter West <peterjwest3@gmail.com> (https://github.com/peterjwest/)",
+  "bugs": {
+    "url": "https://github.com/peterjwest/nomadic/issues"
+  },
+  "homepage": "https://github.com/peterjwest/nomadic#readme"
+}
